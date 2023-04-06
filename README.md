@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seelam-Ramesh-Reddy
 - 👀 I’m interested in Building large scale distributed systems.
-- 🌱 I’m currently learning GrapgQL.
+- 🌱 I’m currently learning nginx.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me ...
 
